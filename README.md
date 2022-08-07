@@ -1,3 +1,5 @@
+#INTRODUCE MY SELF
+
 - 👋 Hi, I’m @dinarrahman30
 - 👀 I’m interested in Data Science, Big Data, Machine Learning, and Web Developer
 - 🌱 I’m currently learning Indonesia Open University (Mathematics) and Universitas Pembangunan Nasional Veteran Jakarta (Political Science)
