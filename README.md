@@ -1,6 +1,6 @@
 #INTRODUCE MY SELF
 
-- 👋 Hi, I’m @dinarrahman30
+- 👋 Hi, I’m Dinar Wahyu R
 - 👀 I’m interested in Data Science, Big Data, Machine Learning, and Web Developer
 - 🌱 I’m currently learning Indonesia Open University (Mathematics) and Universitas Pembangunan Nasional Veteran Jakarta (Political Science)
 - 💞️ I’m looking to collaborate on Github or LinkedIn
