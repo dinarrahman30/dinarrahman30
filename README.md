@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Github or LinkedIn
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)** 
 - 🖥 Visit my portfolio website: https://dinarrahman30.wixsite.com/mysite
-- 📫 Contact me: dinarrahman30@gmail.com
+- 📫 Contact me: dinarrahman30@gmail.com 
 
 <!---
 dinarrahman30/dinarrahman30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
