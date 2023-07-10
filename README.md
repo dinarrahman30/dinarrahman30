@@ -2,13 +2,17 @@
 
 👋 Hi, I’m Dinar Wahyu Rahman
 
-I'm just an undergraduate student with an interest in coding and aspire to be a software engineer in the future. Currently, I am still in the process of mastering skills in Python and Javascript programming languages, SQL, machine learning and website programming. From the results of learning programming language skills and these skills, I can produce several projects on a small and medium scale related to data science, machine learning, and website programming. I personally enjoy learning new things and building on them. I am also a person who is flexible to new environments, has good speaking and writing skills, likes to work with a reliable team, likes to analyze things, and likes challenging assignments.
+I am a sixth-semester undergraduate student in Mathematics from the Universitas Terbuka and Political Science from UPN Veteran Jakarta. I am interested in coding and aspire to be a Machine Learning/AI engineer in the future.
+
+I am still working on skills in Python, C# (basic), JavaScript (basic), SQL, machine learning, Unity 3D + Vuforia Engine, Mozilla Hubs, and website programming.
+
+From the understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, machine learning, AR applications, Game, and website programming. I like to learn new things and develop them.
 
 
 - 👀 I’m interested in Machine Learning, Artificial Intelligent, Big Data, Web Development, Game Development, AR-VR Development, or Metaverse.
 - 🌱 I’m currently studying at Universitas Terbuka (Mathematics) and Universitas Pembangunan Nasional Veteran Jakarta (Political Science).
 - 💞️ I’m looking to collaborate on Github or LinkedIn.
-- 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)** .
+- 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)**.
 - 🖥 Visit my portfolio website: https://dinarrahman30.wixsite.com/dinarrahman30.
 - 📫 Contact me if you want to collaborate: dinarrahman30@gmail.com.
 
