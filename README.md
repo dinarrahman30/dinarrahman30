@@ -1,15 +1,15 @@
-**INTRODUCE MY SELF**
+**INTRODUCE MYSELF**
 
 👋 Hi, I’m Dinar Wahyu Rahman
 
-I am a sixth-semester undergraduate student in Mathematics from the Universitas Terbuka and Political Science from UPN Veteran Jakarta. I am interested in coding and aspire to be a Machine Learning/AI engineer in the future.
+I am a final year semester undergraduate student in Mathematics from the Universitas Terbuka and Political Science from UPN Veteran Jakarta. I am interested in coding and aspire to be a Machine Learning/AI engineer in the future.
 
 I am still working on skills in Python, C# (basic), JavaScript (basic), SQL, machine learning, Unity 3D + Vuforia Engine, Mozilla Hubs, and website programming.
 
 From the understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, machine learning, AR applications, Game, and website programming. I like to learn new things and develop them.
 
 
-- 👀 I’m interested in Machine Learning, Artificial Intelligent, Big Data, Web Development, Game Development, AR-VR Development, or Metaverse.
+- 👀 I’m interested in Machine Learning, Artificial intelligence, Big Data, Web Development, Game Development, AR-VR Development, or Metaverse.
 - 🌱 I’m currently studying at Universitas Terbuka (Mathematics) and Universitas Pembangunan Nasional Veteran Jakarta (Political Science).
 - 💞️ I’m looking to collaborate on Github or LinkedIn.
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)**.
