@@ -14,7 +14,6 @@ From the understanding of programming language skills and these skills, I was ab
 - 💞️ I’m looking to collaborate on Github or LinkedIn.
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)**.
 - 🖥 Visit my portfolio website: **[My Website](https://dinarrahman30.wixsite.com/dinarrahman30)**.
-- 📫 Contact me if you want to collaborate: **[My Email](dinarrahman30@gmail.com)**.
 
 <p align="left">
 <a href="https://github.com/dinarrahman30">
