@@ -6,7 +6,7 @@ As a final year undergraduate student, I am still working on Python, SQL, and ma
 
 
 - 👀 I’m interested in Machine Learning, Artificial intelligence, Big Data, Web Development, Game Development, AR-VR Development, or Metaverse.
-- 🌱 I’m currently studying at Universitas Terbuka (Mathematics) and Universitas Pembangunan Nasional Veteran Jakarta (Political Science).
+- 🌱 I’m currently studying at Universitas Terbuka (Mathematics).
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)**.
 - 🖥 Visit my portfolio website: **[My Website](https://dinarrahman30.wixsite.com/dinarrahman30)**.
 
