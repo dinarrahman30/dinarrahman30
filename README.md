@@ -5,7 +5,7 @@
 As a final year undergraduate student, I am still working on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, and machine learning (Recommender System, NLP, and Computer Vision). I like to learn new things and develop them.
 
 
-- 👀 I’m interested in Data Analysis, Data Science, Machine Learning, Deep Learning, Artificial intelligence, Big Data, and AR-VR Development.
+- 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial intelligence, Big Data, and AR-VR Development.
 - 🌱 I’m currently studying at Universitas Terbuka (Mathematics).
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman-00a405162/)**.
 - 🖥 Visit my portfolio website: **[My Website](https://dinarrahman30.wixsite.com/dinarrahman30)**.
