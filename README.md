@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinarrahman30&label=Profile%20views&color=0e75b6&style=flat" alt="dinarrahman30" /> </p>
 
-As a final year undergraduate student, I am still working on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, and machine learning (Recommender System, NLP, and Computer Vision). I like to learn new things and develop them.
+As a final year undergraduate student, I still work on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, and machine learning (Recommender System, NLP, and Computer Vision). I like to learn new things and develop them.
 
 
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial intelligence, Big Data, and AR-VR Development.
