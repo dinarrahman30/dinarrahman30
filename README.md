@@ -2,9 +2,8 @@
 
 👋 Hi, I’m **Dinar Wahyu Rahman**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinarrahman30&label=Profile%20views&color=0e75b6&style=flat" alt="dinarrahman30" /> </p>
 
-As a final year undergraduate student, I still work on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, and machine learning (Recommender System, NLP, and Computer Vision). I like to learn new things and develop them.
+As a Self-taught programmer, I work on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, and machine learning (Recommender System, NLP, and Computer Vision).
 
 
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial intelligence, Big Data, and AR-VR Development.
@@ -19,8 +18,7 @@ As a final year undergraduate student, I still work on Python, SQL, and machine 
 </a>
 </p>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64748febc4ec366ad5b17386?variant=dark)](https://roadmap.sh)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinarrahman30&label=Profile%20views&color=0e75b6&style=flat" alt="dinarrahman30" /> </p>
 <!---
 dinarrahman30/dinarrahman30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
