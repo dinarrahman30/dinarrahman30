@@ -3,7 +3,7 @@
 👋 Hi, I’m **Dinar Wahyu Rahman**
 
 
-As a self-taught programmer, I work on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science, and machine learning (Recommender System, NLP, and Computer Vision).
+As a self-taught programmer, I work on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science and machine learning (Recommender System, NLP, and Computer Vision).
 
 
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial intelligence, Big Data, and AR-VR Development.
