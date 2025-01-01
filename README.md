@@ -1,5 +1,3 @@
-**INTRODUCE MYSELF**
-
 👋 Hi, I’m **Dinar Wahyu Rahman**
 
 
@@ -7,10 +5,11 @@ As a self-taught programmer, I work on Python, SQL, and machine learning skills.
 
 
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial intelligence, and Big Data.
-- 🌱 I’m currently studying at [Universitas Terbuka](https://www.ut.ac.id/) (Major Mathematics).
-- 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar Wahyu Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman)**.
+- 🎯 Primary tech: Python (TensorFlow)
+- 👩‍🎓 I’m currently studying at [Universitas Terbuka](https://www.ut.ac.id/) (Mathematics).
+- 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar W. Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman)**.
 - 🖥 Visit my portfolio document: **[My Portfolio](https://drive.google.com/file/d/1jIvwwyIdzlKvCBYbCUK_FdNi0tBtTlh6/view?usp=sharing)**.
-- Roadmap Profile: https://roadmap.sh/u/soloplyzz
+- 🛣️ Roadmap profile: [soloplyzz](https://roadmap.sh/u/soloplyzz)
 
 <p align="left">
 <a href="https://github.com/dinarrahman30">
