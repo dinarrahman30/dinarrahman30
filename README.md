@@ -9,7 +9,7 @@ As a self-taught programmer, I work on Python, SQL, and machine learning skills.
 - 👩‍🎓 I’m currently studying at [Universitas Terbuka](https://www.ut.ac.id/) (Mathematics).
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar W. Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman)**.
 - 🖥 Visit my portfolio document: **[My Portfolio](https://drive.google.com/file/d/1jIvwwyIdzlKvCBYbCUK_FdNi0tBtTlh6/view?usp=sharing)**.
-- 🖥 Visit my project data: **[My Project Data](datascienceportfol.io/dinarrahman30)**.
+- 🖥 Visit my project data: **[My Project Data](https://www.datascienceportfol.io/dinarrahman30)**.
 - 🛣️ Roadmap profile: [soloplyzz](https://roadmap.sh/u/soloplyzz)
 
 <p align="left">
