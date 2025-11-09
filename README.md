@@ -1,12 +1,12 @@
 👋 Hi, I’m **Dinar W. Rahman**
 
 
-As a self-taught programmer, I work on Python, SQL, and machine learning skills. From my understanding of programming language skills and these skills, I was able to produce several small and medium-scale projects related to data science and machine learning (Recommender System, NLP, and Computer Vision).
+As a self-taught programmer, I work on Python, SQL, and machine learning skills. From my understanding of programming language skills and skills, I was able to produce several small and medium-scale projects related to data science and machine learning (Recommender System, NLP, and Computer Vision).
 
 
-- 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial intelligence, and Big Data.
+- 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Big Data.
 - 🎯 Primary tech: Python (TensorFlow)
-- 👩‍🎓 I’m currently studying at [Universitas Terbuka](https://www.ut.ac.id/) (Mathematics).
+- 👩‍🎓 I’m graduate from [Universitas Terbuka](https://www.ut.ac.id/) (Mathematics).
 - 👩🏻‍💼 How to reach me on LinkedIn: **[Dinar W. Rahman](https://www.linkedin.com/in/dinar-wahyu-rahman)**.
 - 🖥 Visit my portfolio document: **[My Portfolio](https://drive.google.com/file/d/1jIvwwyIdzlKvCBYbCUK_FdNi0tBtTlh6/view?usp=sharing)**.
 - 🖥 Visit my project data: **[My Project Data](https://www.datascienceportfol.io/dinarrahman30)**.
